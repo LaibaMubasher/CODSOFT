@@ -1,0 +1,1 @@
+This repository contain three files in each of these files i used different datasets from kaggle and used differnet classifiers to classify the data. I also used seaborn and matplot library to visualize the datasets
